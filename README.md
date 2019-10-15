@@ -1,2 +1,0 @@
-# ReactReduxStarterExampleCode
-Created with CodeSandbox
